@@ -36,6 +36,10 @@ etl.py - ETLpipeline file has the ETL process to load all the fact and dimension
 
 eventdatefile_new.xlsx - excel file containing all the data of all the event data files 
 
+<<<<<<< Updated upstream
+=======
+
+>>>>>>> Stashed changes
 ## Some websites referred for help
 
 [w3 school](www.w3schools.com)
